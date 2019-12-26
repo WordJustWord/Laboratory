@@ -5,6 +5,9 @@ import lombok.Getter;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 找出字符串出现最多的字符
+ */
 public class FindMaxWord {
 
     private String resource;
